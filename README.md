@@ -10,6 +10,8 @@
 
 ## 📷 Survey
 
+1.
+
 ## 🔍 Method
 
 ### 1️⃣ Pruning / Evicting / Sparse
