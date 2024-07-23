@@ -3,7 +3,7 @@
 </div>
 
 ## 📢 News
-🎉 [2024-07-23] Project Begining.
+🎉 [2024-07-23] Project Beginning 🥳
 
 ## 📜 Notice
 
@@ -48,11 +48,19 @@ This repository is constantly updating 🤗 ...
 
 16. [**Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference.**](https://arxiv.org/abs/2403.09054) *Muhammad Adnan, Akhil Arunkumar, Gaurav Jain, Prashant J. Nair, Ilya Soloveychik, Purushotham Kamath.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/d-matrix-ai/keyformer-llm)](https://github.com/d-matrix-ai/keyformer-llm)
 
+17. [**Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference.**](https://arxiv.org/abs/2407.11550) *Yuan Feng, Junlin Lv, Yukun Cao, Xike Xie, S. Kevin Zhou.* Arxiv 2024.
+
+18. [**Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters.**](https://arxiv.org/abs/2406.12335) *Zhiyu Guo, Hidetaka Kamigaito, Taro Watanabe.* Arxiv 2024.
+
+19. [**On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference.**](https://arxiv.org/abs/2406.12335) *Siyu Ren, Kenny Q. Zhu.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/DRSY/EasyKV)](https://github.com/DRSY/EasyKV)
+
 ### 2️⃣ Merging
 
 1. [**D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models.**](https://arxiv.org/abs/2406.13035) *Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, Jing Xiong, Mi Zhang.* Arxiv 2024.
    
 2. [**Model Tells You Where to Merge: Adaptive KV Cache Merging for LLMs on Long-Context Tasks.**](https://arxiv.org/abs/2407.08454) *Zheng Wang, Boxiao Jin, Zhongzhi Yu, Minjia Zhang.* Arxiv 2024.
+
+3. [**CaM: Cache Merging for Memory-efficient LLMs Inference.**](https://openreview.net/forum?id=LCTmppB165) *Yuxin Zhang, Yuxuan Du, Gen Luo, Yunshan Zhong, Zhenyu Zhang, Shiwei Liu, Rongrong Ji.* ICML 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/zyxxmu/cam)](https://github.com/zyxxmu/cam)
 
 ### 3️⃣ Cross-Layer
 
