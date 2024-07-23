@@ -1,10 +1,10 @@
 # Awesome-KV-Cache-Compression
 📰 Must-read papers on KV Cache Compression 🔥
 
-# 📢 News
+## 📢 News
 🎉 [2024-07-23] Project Begining.
 
-# 📜 Papers
+## 📜 Papers
 
 > You can directly click on the title to jump to the corresponding PDF link location
 
