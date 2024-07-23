@@ -1,5 +1,6 @@
-# Awesome-KV-Cache-Compression
-📰 Must-read papers on KV Cache Compression 🔥
+<div align="center">
+<img src="./logo.png" width=90%>
+</div>
 
 ## 📢 News
 🎉 [2024-07-23] Project Begining.
