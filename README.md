@@ -5,7 +5,7 @@
 ## 📢 News
 🎉 [2024-07-23] Project Begining.
 
-## 📜 Papers
+## 📜 Notice
 
 > You can directly click on the title to jump to the corresponding PDF link location
 
