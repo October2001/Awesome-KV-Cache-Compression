@@ -22,7 +22,8 @@ This repository is constantly updating 🤗 ...
 
 ## 📷 Survey
 
-1.
+1. [**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption.**](https://arxiv.org/abs/2407.18003) *Shi Luohe, Zhang Hongyi, Yao Yao, Li Zuchao, Zhao Hai
+.* COLM 2024.
 
 ## 🔍 Method
 
