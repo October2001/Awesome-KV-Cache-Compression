@@ -31,47 +31,47 @@ This repository is constantly updating 🤗 ...
 
 1. [**Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time.**](https://arxiv.org/abs/2305.17118) *Zichang Liu, Aditya Desai, Fangshuo Liao, Weitao Wang, Victor Xie, Zhaozhuo Xu, Anastasios Kyrillidis, Anshumali Shrivastava.* NeurIPS 2023. 
 
-3. [**SnapKV: LLM Knows What You are Looking for Before Generation.**](https://arxiv.org/abs/2404.14469) *Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/FasterDecoding/SnapKV)](https://github.com/FasterDecoding/SnapKV)
+2. [**SnapKV: LLM Knows What You are Looking for Before Generation.**](https://arxiv.org/abs/2404.14469) *Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/FasterDecoding/SnapKV)](https://github.com/FasterDecoding/SnapKV)
 
-4. [**H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.**](https://arxiv.org/abs/2306.14048) *Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen.* NeurIPS 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/FMInference/H2O)](https://github.com/FMInference/H2O)
+3. [**H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.**](https://arxiv.org/abs/2306.14048) *Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang, Beidi Chen.* NeurIPS 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/FMInference/H2O)](https://github.com/FMInference/H2O)
 
-5. [**Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs.**](https://arxiv.org/abs/2310.01801) *Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao.* ICLR 2024.
+4. [**Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs.**](https://arxiv.org/abs/2310.01801) *Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao.* ICLR 2024.
 
-6. [**PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference.**](https://arxiv.org/abs/2405.12532) *Dongjie Yang, XiaoDong Han, Yan Gao, Yao Hu, Shilin Zhang, Hai Zhao.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mutonix/pyramidinfer)](https://github.com/mutonix/pyramidinfer)
+5. [**PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference.**](https://arxiv.org/abs/2405.12532) *Dongjie Yang, XiaoDong Han, Yan Gao, Yao Hu, Shilin Zhang, Hai Zhao.* ACL 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mutonix/pyramidinfer)](https://github.com/mutonix/pyramidinfer)
 
-7. [**PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling.**](https://arxiv.org/abs/2406.02069) *Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Tianyu Liu, Keming Lu, Wayne Xiong, Yue Dong, Baobao Chang, Junjie Hu, Wen Xiao.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/PyramidKV)](https://github.com/Zefan-Cai/PyramidKV)
+6. [**PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling.**](https://arxiv.org/abs/2406.02069) *Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Tianyu Liu, Keming Lu, Wayne Xiong, Yue Dong, Baobao Chang, Junjie Hu, Wen Xiao.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/PyramidKV)](https://github.com/Zefan-Cai/PyramidKV)
 
-8. [**Transformers are Multi-State RNNs.**](https://arxiv.org/abs/2401.06104) *Matanel Oren, Michael Hassid, Nir Yarden, Yossi Adi, Roy Schwartz.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/TOVA)](https://github.com/schwartz-lab-NLP/TOVA)
+7. [**Transformers are Multi-State RNNs.**](https://arxiv.org/abs/2401.06104) *Matanel Oren, Michael Hassid, Nir Yarden, Yossi Adi, Roy Schwartz.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/schwartz-lab-NLP/TOVA)](https://github.com/schwartz-lab-NLP/TOVA)
 
-9. [**Efficient Streaming Language Models with Attention Sinks.**](https://arxiv.org/abs/2309.17453) *Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis.* ICLR 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm)](https://github.com/mit-han-lab/streaming-llm)
+8. [**Efficient Streaming Language Models with Attention Sinks.**](https://arxiv.org/abs/2309.17453) *Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis.* ICLR 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm)](https://github.com/mit-han-lab/streaming-llm)
 
-10. [**A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression.**](https://arxiv.org/abs/2406.11430) *Alessio Devoto, Yu Zhao, Simone Scardapane, Pasquale Minervini.* Arxiv 2024.
+9. [**A Simple and Effective L2 Norm-Based Strategy for KV Cache Compression.**](https://arxiv.org/abs/2406.11430) *Alessio Devoto, Yu Zhao, Simone Scardapane, Pasquale Minervini.* Arxiv 2024.
 
-11. [**Retrieval Head Mechanistically Explains Long-Context Factuality.**](https://arxiv.org/abs/2404.15574) *Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng, Yao Fu.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/nightdessert/Retrieval_Head)](https://github.com/nightdessert/Retrieval_Head)
+10. [**Retrieval Head Mechanistically Explains Long-Context Factuality.**](https://arxiv.org/abs/2404.15574) *Wenhao Wu, Yizhong Wang, Guangxuan Xiao, Hao Peng, Yao Fu.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/nightdessert/Retrieval_Head)](https://github.com/nightdessert/Retrieval_Head)
 
-12. [**Efficient Sparse Attention needs Adaptive Token Release.**](https://arxiv.org/abs/2407.02328) *Chaoran Zhang, Lixin Zou, Dan Luo, Min Tang, Xiangyang Luo, Zihao Li, Chenliang Li.* ACL 2024.
+11. [**Efficient Sparse Attention needs Adaptive Token Release.**](https://arxiv.org/abs/2407.02328) *Chaoran Zhang, Lixin Zou, Dan Luo, Min Tang, Xiangyang Luo, Zihao Li, Chenliang Li.* ACL 2024.
 
-13. [**Loki: Low-Rank Keys for Efficient Sparse Attention.**](https://arxiv.org/abs/2406.02542) *Prajwal Singhania, Siddharth Singh, Shwai He, Soheil Feizi, Abhinav Bhatele.* Arxiv 2024.
+12. [**Loki: Low-Rank Keys for Efficient Sparse Attention.**](https://arxiv.org/abs/2406.02542) *Prajwal Singhania, Siddharth Singh, Shwai He, Soheil Feizi, Abhinav Bhatele.* Arxiv 2024.
 
-14. [**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference.**](https://arxiv.org/abs/2402.09398) *Harry Dong, Xinyu Yang, Zhenyu Zhang, Zhangyang Wang, Yuejie Chi, Beidi Chen.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/hdong920/LESS)](https://github.com/hdong920/LESS)
+13. [**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference.**](https://arxiv.org/abs/2402.09398) *Harry Dong, Xinyu Yang, Zhenyu Zhang, Zhangyang Wang, Yuejie Chi, Beidi Chen.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/hdong920/LESS)](https://github.com/hdong920/LESS)
 
-15. [**ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching.**](https://arxiv.org/abs/2403.17312) *Youpeng Zhao, Di Wu, Jun Wang.* Arxiv 2024.
+14. [**ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching.**](https://arxiv.org/abs/2403.17312) *Youpeng Zhao, Di Wu, Jun Wang.* Arxiv 2024.
 
-16. [**Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference.**](https://arxiv.org/abs/2403.09054) *Muhammad Adnan, Akhil Arunkumar, Gaurav Jain, Prashant J. Nair, Ilya Soloveychik, Purushotham Kamath.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/d-matrix-ai/keyformer-llm)](https://github.com/d-matrix-ai/keyformer-llm)
+15. [**Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference.**](https://arxiv.org/abs/2403.09054) *Muhammad Adnan, Akhil Arunkumar, Gaurav Jain, Prashant J. Nair, Ilya Soloveychik, Purushotham Kamath.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/d-matrix-ai/keyformer-llm)](https://github.com/d-matrix-ai/keyformer-llm)
 
-17. [**Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference.**](https://arxiv.org/abs/2407.11550) *Yuan Feng, Junlin Lv, Yukun Cao, Xike Xie, S. Kevin Zhou.* Arxiv 2024.
+16. [**Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference.**](https://arxiv.org/abs/2407.11550) *Yuan Feng, Junlin Lv, Yukun Cao, Xike Xie, S. Kevin Zhou.* Arxiv 2024.
 
-18. [**Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters.**](https://arxiv.org/abs/2406.12335) *Zhiyu Guo, Hidetaka Kamigaito, Taro Watanabe.* Arxiv 2024.
+17. [**Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters.**](https://arxiv.org/abs/2406.12335) *Zhiyu Guo, Hidetaka Kamigaito, Taro Watanabe.* Arxiv 2024.
 
-19. [**On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference.**](https://arxiv.org/abs/2406.12335) *Siyu Ren, Kenny Q. Zhu.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/DRSY/EasyKV)](https://github.com/DRSY/EasyKV)
+18. [**On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference.**](https://arxiv.org/abs/2406.12335) *Siyu Ren, Kenny Q. Zhu.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/DRSY/EasyKV)](https://github.com/DRSY/EasyKV)
 
-20. [**CORM: Cache Optimization with Recent Message for Large Language Model Inference.**](https://arxiv.org/abs/2404.15949) *Jincheng Dai, Zhuowei Huang, Haiyun Jiang, Chen Chen, Deng Cai, Wei Bi, Shuming Shi.* Arxiv 2024.
+19. [**CORM: Cache Optimization with Recent Message for Large Language Model Inference.**](https://arxiv.org/abs/2404.15949) *Jincheng Dai, Zhuowei Huang, Haiyun Jiang, Chen Chen, Deng Cai, Wei Bi, Shuming Shi.* Arxiv 2024.
     
-22. [**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads.**](https://www.arxiv.org/abs/2407.15891) *Hanlin Tang, Yang Lin, Jing Lin, Qingsen Han, Shikuan Hong, Yiwu Yao, Gongyi Wang.* Arxiv 2024.
+20. [**RazorAttention: Efficient KV Cache Compression Through Retrieval Heads.**](https://www.arxiv.org/abs/2407.15891) *Hanlin Tang, Yang Lin, Jing Lin, Qingsen Han, Shikuan Hong, Yiwu Yao, Gongyi Wang.* Arxiv 2024.
 
-23. [**ThinK: Thinner Key Cache by Query-Driven Pruning.**](https://arxiv.org/abs/2407.21018) *Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo.* Arxiv 2024.
+21. [**ThinK: Thinner Key Cache by Query-Driven Pruning.**](https://arxiv.org/abs/2407.21018) *Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo.* Arxiv 2024.
 
-24. [**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder.**](https://arxiv.org/abs/2407.20485) *Hyun Rae Jo, Dong Kun Shin.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Dirac-Notation/A2SF)](https://github.com/Dirac-Notation/A2SF)
+22. [**A2SF: Accumulative Attention Scoring with Forgetting Factor for Token Pruning in Transformer Decoder.**](https://arxiv.org/abs/2407.20485) *Hyun Rae Jo, Dong Kun Shin.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Dirac-Notation/A2SF)](https://github.com/Dirac-Notation/A2SF)
 
 ### 2️⃣ Merging
 
