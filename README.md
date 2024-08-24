@@ -81,6 +81,8 @@ This repository is constantly updating 🤗 ...
 
 26. [**Post-Training Sparse Attention with Double Sparsity.**](https://arxiv.org/abs/2408.07092) *Shuo Yang, Ying Sheng, Joseph E. Gonzalez, Ion Stoica, Lianmin Zheng.* Arxiv 2024.
 
+27. [**Farewell to Length Extrapolation, a Training-Free Infinite Context with Finite Attention Scope.**](https://www.arxiv.org/abs/2407.15176) *Xiaoran Liu, Qipeng Guo, Yuerong Song, Zhigeng Liu, Kai Lv, Hang Yan, Linlin Li, Qun Liu, Xipeng Qiu.* Arxiv 2024.
+
 
 ### 2️⃣ Merging
 
