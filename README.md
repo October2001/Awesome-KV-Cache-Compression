@@ -152,6 +152,8 @@ This repository is constantly updating 🤗 ...
 
 5. [**MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding.**](https://arxiv.org/abs/2406.09297) *Zayd Muhammad Kawakibi Zuhri, Muhammad Farid Adilazuarda, Ayu Purwarianti, Alham Fikri Aji.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/zaydzuhri/pythia-mlkv)](https://github.com/zaydzuhri/pythia-mlkv)
 
+6. [**A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference.**](https://arxiv.org/abs/2410.14442) *You Wu, Haoyi Wu, Kewei Tu.* Arxiv 2024.
+
 ### 4️⃣ Low-Rank
 
 1. [**Fast Transformer Decoding: One Write-Head is All You Need.**](https://arxiv.org/abs/1911.02150) *Noam Shazeer.* Arxiv 2019.
