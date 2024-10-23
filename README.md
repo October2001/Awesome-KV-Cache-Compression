@@ -172,6 +172,8 @@ This repository is constantly updating 🤗 ...
 
 5. [**Palu: Compressing KV-Cache with Low-Rank Projection.**](https://arxiv.org/abs/2407.21118) *Chi-Chih Chang, Wei-Cheng Lin, Chien-Yu Lin, Chong-Yan Chen, Yu-Fang Hu, Pei-Shuo Wang, Ning-Chi Huang, Luis Ceze, Kai-Chiang Wu.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/shadowpa0327/Palu)](https://github.com/shadowpa0327/Palu)
 
+6.  [**LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy.**](https://arxiv.org/abs/2410.03111) *Rongzhi Zhang, Kuang Wang, Liyuan Liu, Shuohang Wang, Hao Cheng, Chao Zhang, Yelong Shen.* Arxiv 2024.
+
 ### 5️⃣ Quantization
 
 1. [**ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification.**](https://www.arxiv.org/abs/2405.14256) *Yefei He, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang.* Arxiv 2024.
