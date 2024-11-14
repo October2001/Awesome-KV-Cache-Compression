@@ -137,6 +137,8 @@ This repository is constantly updating 🤗 ...
 
 53. [**Recycled Attention: Efficient inference for long-context language models.**](https://arxiv.org/abs/2411.05787) *Fangyuan Xu, Tanya Goyal, Eunsol Choi.* Arxiv 2024.
 
+54. [**VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration.**](https://arxiv.org/abs/2410.23317) *Dezhan Tu, Danylo Vashchilenko, Yuzhe Lu, Panpan Xu.* Arxiv 2024.
+
 ### 2️⃣ Merging
 
 1. [**D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models.**](https://arxiv.org/abs/2406.13035) *Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, Jing Xiong, Mi Zhang.* Arxiv 2024.
