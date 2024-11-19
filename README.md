@@ -20,6 +20,10 @@
 This repository is constantly updating 🤗 ...
 > You can directly click on the title to jump to the corresponding PDF link location
 
+## ⚙️ Project
+1. [**kvpress.**](https://github.com/NVIDIA/kvpress) *NVIDIA.* [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/kvpress)](https://github.com/NVIDIA/kvpress)
+* This repository implements multiple KV cache pruning methods and benchmarks using 🤗 transformers.
+
 ## 📷 Survey
 
 1. [**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption.**](https://arxiv.org/abs/2407.18003) *Shi Luohe, Zhang Hongyi, Yao Yao, Li Zuchao, Zhao Hai.* COLM 2024.
