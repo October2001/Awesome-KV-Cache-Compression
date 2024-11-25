@@ -145,6 +145,8 @@ This repository is constantly updating 🤗 ...
 
 55. [**Squeezed Attention: Accelerating Long Context Length LLM Inference.**](https://arxiv.org/abs/2411.09688) *Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Monishwaran Maheswaran, June Paik, Michael W. Mahoney, Kurt Keutzer, Amir Gholami.* Arxiv 2024.
 
+56. [**ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction.**](https://github.com/pku-liang/ArkVale/blob/main/media/arkvale-nips24-paper.pdf) *Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, Yun Liang.* NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/pku-liang/ArkVale)](https://github.com/pku-liang/ArkVale)
+
 ### 2️⃣ Merging
 
 1. [**D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models.**](https://arxiv.org/abs/2406.13035) *Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, Jing Xiong, Mi Zhang.* Arxiv 2024.
