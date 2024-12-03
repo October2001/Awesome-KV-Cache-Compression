@@ -147,6 +147,8 @@ This repository is constantly updating 🤗 ...
 
 56. [**ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction.**](https://github.com/pku-liang/ArkVale/blob/main/media/arkvale-nips24-paper.pdf) *Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, Yun Liang.* NeurIPS 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/pku-liang/ArkVale)](https://github.com/pku-liang/ArkVale)
 
+57. [**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning.**](https://arxiv.org/abs/2410.19258) *Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/FYYFU/HeadKV)](https://github.com/FYYFU/HeadKV)
+
 ### 2️⃣ Merging
 
 1. [**D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models.**](https://arxiv.org/abs/2406.13035) *Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, Jing Xiong, Mi Zhang.* Arxiv 2024.
