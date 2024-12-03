@@ -151,7 +151,7 @@ This repository is constantly updating 🤗 ...
 
 58. [**[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster.**](https://arxiv.org/pdf/2412.01818) *Qizhe Zhang, Aosong Cheng, Ming Lu, Zhiyong Zhuo, Minqi Wang, Jiajun Cao, Shaobo Guo, Qi She, Shanghang Zhang.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Theia-4869/FasterVLM)](https://github.com/Theia-4869/FasterVLM)
 
-59. [**Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models.**](https://arxiv.org/abs/2409.10197) *Weihao Ye, Qiong Wu, Wenhao Lin, Yiyi Zhou.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Theia-4869/FasterVLM)]([https://github.com/ywh187/FitPrune](https://github.com/ywh187/FitPrune)
+59. [**Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models.**](https://arxiv.org/abs/2409.10197) *Weihao Ye, Qiong Wu, Wenhao Lin, Yiyi Zhou.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Theia-4869/FasterVLM)]([https://github.com/ywh187/FitPrune](https://github.com/ywh187/FitPrune))
 
 
 ### 2️⃣ Merging
