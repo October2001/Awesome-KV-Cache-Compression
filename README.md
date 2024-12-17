@@ -153,6 +153,10 @@ This repository is constantly updating 🤗 ...
 
 59. [**Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models.**](https://arxiv.org/abs/2409.10197) *Weihao Ye, Qiong Wu, Wenhao Lin, Yiyi Zhou.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Theia-4869/FasterVLM)]([https://github.com/ywh187/FitPrune](https://github.com/ywh187/FitPrune))
 
+60. [**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression.**](https://arxiv.org/abs/2412.03213) *Guangda Liu, Chengwei Li, Jieru Zhao, Chenqi Zhang, Minyi Guo.* Arxiv 2024.
+
+61. [**Unifying KV Cache Compression for Large Language Models with LeanKV.**](https://arxiv.org/abs/2412.03131) *Yanqi Zhang, Yuwei Hu, Runyuan Zhao, John C.S. Lui, Haibo Chen.* Arxiv 2024.
+
 
 ### 2️⃣ Merging
 
@@ -245,4 +249,6 @@ This repository is constantly updating 🤗 ...
 ## 📊 Evaluation
 
 1. [**KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches.**](https://arxiv.org/abs/2407.01527) *Jiayi Yuan, Hongyi Liu, Shaochen (Henry)Zhong, Yu-Neng Chuang, Songchen Li, Guanchu Wang, Duy Le, Hongye Jin, Vipin Chaudhary, Zhaozhuo Xu, Zirui Liu, Xia Hu.* EMNLP 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/henryzhongsc/longctx_bench)](https://github.com/henryzhongsc/longctx_bench)
+
+2. [**SCBench: A KV Cache-Centric Analysis of Long-Context Methods.**](https://arxiv.org/abs/2412.10319) *Yucheng Li, Huiqiang Jiang, Qianhui Wu, Xufang Luo, Surin Ahn, Chengruidong Zhang, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MInference)](https://github.com/microsoft/MInference/tree/main/scbench)
 
