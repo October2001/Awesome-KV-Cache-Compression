@@ -151,11 +151,15 @@ This repository is constantly updating 🤗 ...
 
 58. [**[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster.**](https://arxiv.org/pdf/2412.01818) *Qizhe Zhang, Aosong Cheng, Ming Lu, Zhiyong Zhuo, Minqi Wang, Jiajun Cao, Shaobo Guo, Qi She, Shanghang Zhang.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Theia-4869/FasterVLM)](https://github.com/Theia-4869/FasterVLM)
 
-59. [**Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models.**](https://arxiv.org/abs/2409.10197) *Weihao Ye, Qiong Wu, Wenhao Lin, Yiyi Zhou.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Theia-4869/FasterVLM)]([https://github.com/ywh187/FitPrune](https://github.com/ywh187/FitPrune))
+59. [**Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models.**](https://arxiv.org/abs/2409.10197) *Weihao Ye, Qiong Wu, Wenhao Lin, Yiyi Zhou.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Theia-4869/FasterVLM)](https://github.com/ywh187/FitPrune)
 
 60. [**ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression.**](https://arxiv.org/abs/2412.03213) *Guangda Liu, Chengwei Li, Jieru Zhao, Chenqi Zhang, Minyi Guo.* Arxiv 2024.
 
 61. [**Unifying KV Cache Compression for Large Language Models with LeanKV.**](https://arxiv.org/abs/2412.03131) *Yanqi Zhang, Yuwei Hu, Runyuan Zhao, John C.S. Lui, Haibo Chen.* Arxiv 2024.
+
+62. [**DynamicKV: Task-Aware Adaptive KV Cache Compression for Long Context LLMs.**](https://arxiv.org/abs/2412.14838) *Xiabin Zhou, Wenbin Wang, Minyan Zeng, Jiaxian Guo, Xuebo Liu, Li Shen, Min Zhang, Liang Ding.* Arxiv 2024.
+
+63. [**SCOPE: Optimizing Key-Value Cache Compression in Long-context Generation.**](https://arxiv.org/abs/2412.13649) *Jialong Wu, Zhenglin Wang, Linhai Zhang, Yilong Lai, Yulan He, Deyu Zhou.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/Linking-ai/SCOPE)](https://github.com/Linking-ai/SCOPE)
 
 
 ### 2️⃣ Merging
