@@ -260,6 +260,8 @@ This repository is constantly updating 🤗 ...
 
 5. [**ICPC: In-context Prompt Compression with Faster Inference.**](https://arxiv.org/abs/2501.01625) *Ziyang Yu, Yuyu Liu.* Arxiv 2025.
 
+6. [**Better Prompt Compression Without Multi-Layer Perceptrons.**](https://arxiv.org/abs/2501.06730) *Edouardo Honig, Andrew Lizarraga, Zijun Frank Zhang, Ying Nian Wu.* Arxiv 2025.
+
 ## 📊 Evaluation
 
 1. [**KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches.**](https://arxiv.org/abs/2407.01527) *Jiayi Yuan, Hongyi Liu, Shaochen (Henry)Zhong, Yu-Neng Chuang, Songchen Li, Guanchu Wang, Duy Le, Hongye Jin, Vipin Chaudhary, Zhaozhuo Xu, Zirui Liu, Xia Hu.* EMNLP 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/henryzhongsc/longctx_bench)](https://github.com/henryzhongsc/longctx_bench)
