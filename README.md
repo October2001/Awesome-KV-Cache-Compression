@@ -230,6 +230,8 @@ This repository is constantly updating 🤗 ...
 
 6.  [**LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy.**](https://arxiv.org/abs/2410.03111) *Rongzhi Zhang, Kuang Wang, Liyuan Liu, Shuohang Wang, Hao Cheng, Chao Zhang, Yelong Shen.* Arxiv 2024.
 
+7.  [**Tensor Product Attention Is All You Need.**](https://arxiv.org/abs/2501.06425) *Yifan Zhang, Yifeng Liu, Huizhuo Yuan, Zhen Qin, Yang Yuan, Quanquan Gu, Andrew Chi-Chih Yao.* Arxiv 2025.
+
 ### 5️⃣ Quantization
 
 1. [**ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification.**](https://www.arxiv.org/abs/2405.14256) *Yefei He, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang.* Arxiv 2024.
