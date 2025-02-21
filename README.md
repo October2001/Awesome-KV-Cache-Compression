@@ -230,7 +230,7 @@ This repository is constantly updating 🤗 ...
 
 6.  [**LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy.**](https://arxiv.org/abs/2410.03111) *Rongzhi Zhang, Kuang Wang, Liyuan Liu, Shuohang Wang, Hao Cheng, Chao Zhang, Yelong Shen.* Arxiv 2024.
 
-7.  [**Tensor Product Attention Is All You Need.**](https://arxiv.org/abs/2501.06425) *Yifan Zhang, Yifeng Liu, Huizhuo Yuan, Zhen Qin, Yang Yuan, Quanquan Gu, Andrew Chi-Chih Yao.* Arxiv 2025.
+7.  [**Tensor Product Attention Is All You Need.**](https://arxiv.org/abs/2501.06425) *Yifan Zhang, Yifeng Liu, Huizhuo Yuan, Zhen Qin, Yang Yuan, Quanquan Gu, Andrew Chi-Chih Yao.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/tensorgi/T6)](https://github.com/tensorgi/T6)
 
 ### 5️⃣ Quantization
 
