@@ -175,6 +175,8 @@ This repository is constantly updating 🤗 ...
 
 69. [**RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression.**](https://www.arxiv.org/abs/2502.14051) *Payman Behnam, Yaosheng Fu, Ritchie Zhao, Po-An Tsai, Zhiding Yu, Alexey Tumanov.* Arxiv 2025.
 
+70. [**DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance.**](https://arxiv.org/abs/2502.16886) *Xuanfan Ni, Liyan Xu, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li.* Arxiv 2025.
+
 
 ### 2️⃣ Merging
 
@@ -258,6 +260,7 @@ This repository is constantly updating 🤗 ...
 
 10. [**WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More.**](https://arxiv.org/abs/2402.12065) *Yuxuan Yue, Zhihang Yuan, Haojie Duanmu, Sifan Zhou, Jianlong Wu, Liqiang Nie.* Arxiv 2024.
 
+
 ### 6️⃣ Prompt Compression
 
 1. [**LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models.**](https://arxiv.org/abs/2310.05736) *Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu.* EMNLP 2023. [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLMLingua)](https://github.com/microsoft/LLMLingua)
@@ -271,6 +274,11 @@ This repository is constantly updating 🤗 ...
 5. [**ICPC: In-context Prompt Compression with Faster Inference.**](https://arxiv.org/abs/2501.01625) *Ziyang Yu, Yuyu Liu.* Arxiv 2025.
 
 6. [**Better Prompt Compression Without Multi-Layer Perceptrons.**](https://arxiv.org/abs/2501.06730) *Edouardo Honig, Andrew Lizarraga, Zijun Frank Zhang, Ying Nian Wu.* Arxiv 2025.
+
+
+### 7️⃣ Reuse
+
+1. [**KVLink: Accelerating Large Language Models via Efficient KV Cache Reuse.**](https://www.arxiv.org/abs/2502.16002) *Jingbo Yang, Bairu Hou, Wei Wei, Yujia Bao, Shiyu Chang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/UCSB-NLP-Chang/KVLink)](https://github.com/UCSB-NLP-Chang/KVLink)
 
 ## 📊 Evaluation
 
