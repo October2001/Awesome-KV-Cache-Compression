@@ -276,6 +276,10 @@ This repository is constantly updating 🤗 ...
 
 11. [**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference.**](https://arxiv.org/abs/2502.04420) *Xing Li, Zeyu Xing, Yiming Li, Linping Qu, Hui-Ling Zhen, Wulong Liu, Yiwu Yao, Sinno Jialin Pan, Mingxuan Yuan.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/cmd2001/KVTuner)](https://github.com/cmd2001/KVTuner)
 
+12. [**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models.**](https://arxiv.org/abs/2503.16257) *Keda Tao, Haoxuan You, Yang Sui, Can Qin, Huan Wang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/KD-TAO/VidKV)](https://github.com/KD-TAO/VidKV)
+
+13. [**BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache.**](https://arxiv.org/abs/2503.18773) *Dayou Du, Shijie Cao, Jianyi Cheng, Ting Cao, Mao Yang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/DD-DuDa/BitDecoding)](https://github.com/DD-DuDa/BitDecoding)
+
 
 ### 6️⃣ Prompt Compression
 
