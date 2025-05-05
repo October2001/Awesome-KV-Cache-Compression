@@ -193,6 +193,8 @@ This repository is constantly updating 🤗 ...
 
 78. [**SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching.**](https://arxiv.org/abs/2504.00970) *Yuxuan Zhu, Ali Falahati, David H. Yang, Mohammad Mohammadi Amiri.* Arxiv 2025.
 
+79. [**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs.**](https://arxiv.org/abs/2504.17768) *Piotr Nawrot, Robert Li, Renjie Huang, Sebastian Ruder, Kelly Marchisio, Edoardo M. Ponti.* Arxiv 2025.
+
 
 ### 2️⃣ Merging
 
