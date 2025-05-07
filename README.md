@@ -195,6 +195,8 @@ This repository is constantly updating 🤗 ...
 
 79. [**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs.**](https://arxiv.org/abs/2504.17768) *Piotr Nawrot, Robert Li, Renjie Huang, Sebastian Ruder, Kelly Marchisio, Edoardo M. Ponti.* Arxiv 2025.
 
+80. [**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension.**](https://arxiv.org/abs/2505.00570) *Jushi Kai, Boyi Zeng, Yixuan Wang, Haoli Bai, Bo Jiang, Zhouhan Lin.* Arxiv 2025.
+
 
 ### 2️⃣ Merging
 
@@ -217,6 +219,8 @@ This repository is constantly updating 🤗 ...
 9. [**CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion.**](https://arxiv.org/abs/2405.16444) *Jiayi Yao, Hanchen Li, Yuhan Liu, Siddhant Ray, Yihua Cheng, Qizheng Zhang, Kuntai Du, Shan Lu, Junchen Jiang.* EuroSys 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LMCache/LMCache)](https://github.com/LMCache/LMCache)
 
 10. [**AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning.**](https://arxiv.org/abs/2412.03248) *Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/LaVi-Lab/AIM)](https://github.com/LaVi-Lab/AIM)
+
+11. [**KeepKV: Eliminating Output Perturbation in KV Cache Compression for Efficient LLMs Inference.**](https://arxiv.org/abs/2504.09936) *Yuxuan Tian, Zihan Wang, Yebo Peng, Aomufei Yuan, Zhiming Wang, Bairen Yi, Xin Liu, Yong Cui, Tong Yang.* Arxiv 2025.
 
 ### 3️⃣ Cross-Layer
 
