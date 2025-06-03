@@ -197,6 +197,8 @@ This repository is constantly updating 🤗 ...
 
 80. [**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension.**](https://arxiv.org/abs/2505.00570) *Jushi Kai, Boyi Zeng, Yixuan Wang, Haoli Bai, Bo Jiang, Zhouhan Lin.* Arxiv 2025.
 
+81. [**Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference.**](https://arxiv.org/abs/2505.22913) *Donghyeon Joo, Helya Hosseini, Ramyad Hadidi, Bahar Asgari.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/dhjoo98/mustafar)](https://github.com/dhjoo98/mustafar)
+
 
 ### 2️⃣ Merging
 
