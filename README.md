@@ -24,6 +24,9 @@ This repository is constantly updating 🤗 ...
 1. [**kvpress.**](https://github.com/NVIDIA/kvpress) *NVIDIA.* [![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/kvpress)](https://github.com/NVIDIA/kvpress)
 * This repository implements multiple KV cache pruning methods and benchmarks using 🤗 transformers.
 
+2. [**KVCache-Factory.**](https://github.com/Zefan-Cai/KVCache-Factory) [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/KVCache-Factory)](https://github.com/Zefan-Cai/KVCache-Factory)
+* Unified KV Cache Compression Methods for Auto-Regressive Models.
+
 ## 📷 Survey
 
 1. [**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption.**](https://arxiv.org/abs/2407.18003) *Shi Luohe, Zhang Hongyi, Yao Yao, Li Zuchao, Zhao Hai.* COLM 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/zcli-charlie/Awesome-KV-Cache)](https://github.com/zcli-charlie/Awesome-KV-Cache)
@@ -198,6 +201,11 @@ This repository is constantly updating 🤗 ...
 80. [**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension.**](https://arxiv.org/abs/2505.00570) *Jushi Kai, Boyi Zeng, Yixuan Wang, Haoli Bai, Bo Jiang, Zhouhan Lin.* Arxiv 2025.
 
 81. [**Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference.**](https://arxiv.org/abs/2505.22913) *Donghyeon Joo, Helya Hosseini, Ramyad Hadidi, Bahar Asgari.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/dhjoo98/mustafar)](https://github.com/dhjoo98/mustafar)
+    
+82. [**CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences.**](https://arxiv.org/abs/2503.12491) *Ziran Qin, Yuchen Cao, Mingbao Lin, Wen Hu, Shixuan Fan, Ke Cheng, Weiyao Lin, Jianguo Li.* ICLR 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/antgroup/cakekv)](https://github.com/antgroup/cakekv)
+
+83. [**R-KV: Redundancy-aware KV Cache Compression for Training-Free Reasoning Models Acceleration.**](https://arxiv.org/abs/2505.24133) *Zefan Cai, Wen Xiao, Hanshi Sun, Cheng Luo, Yikai Zhang, Ke Wan, Yucheng Li, Yeyang Zhou, Li-Wen Chang, Jiuxiang Gu, Zhen Dong, Anima Anandkumar, Abedelkadir Asi, Junjie Hu.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/R-KV)](https://github.com/Zefan-Cai/R-KV)
+
 
 
 ### 2️⃣ Merging
