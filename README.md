@@ -208,6 +208,7 @@ This repository is constantly updating 🤗 ...
 
 84. [**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction.**](https://arxiv.org/abs/2505.23416) *Jang-Hyun Kim, Jinuk Kim, Sangwoo Kwon, Jae W. Lee, Sangdoo Yun, Hyun Oh Song.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/snu-mllab/KVzip)](https://github.com/snu-mllab/KVzip)
 
+85. [**Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs.**](https://www.arxiv.org/abs/2506.05410) *Wanyun Cui, Mingwei Xu.* Arxiv 2025.
 
 
 ### 2️⃣ Merging
