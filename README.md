@@ -210,6 +210,8 @@ This repository is constantly updating 🤗 ...
 
 85. [**Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs.**](https://www.arxiv.org/abs/2506.05410) *Wanyun Cui, Mingwei Xu.* Arxiv 2025.
 
+86. [**AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models.**](https://www.arxiv.org/abs/2506.03762) *Yifeng Gu, Zicong Jiang, Jianxiu Jin, Kailing Guo, Ziyang Zhang, Xiangmin Xu.* Arxiv 2025.
+
 
 ### 2️⃣ Merging
 
@@ -300,6 +302,10 @@ This repository is constantly updating 🤗 ...
 12. [**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models.**](https://arxiv.org/abs/2503.16257) *Keda Tao, Haoxuan You, Yang Sui, Can Qin, Huan Wang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/KD-TAO/VidKV)](https://github.com/KD-TAO/VidKV)
 
 13. [**BitDecoding: Unlocking Tensor Cores for Long-Context LLMs Decoding with Low-Bit KV Cache.**](https://arxiv.org/abs/2503.18773) *Dayou Du, Shijie Cao, Jianyi Cheng, Ting Cao, Mao Yang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/DD-DuDa/BitDecoding)](https://github.com/DD-DuDa/BitDecoding)
+
+14. [**TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering.**](https://www.arxiv.org/abs/2506.04642) *Vinay Joshi, Pratik Prabhanjan Brahma, Zicheng Liu, Emad Barsoum
+.* ACL 2025 Industry Track.
+
 
 
 ### 6️⃣ Prompt Compression
