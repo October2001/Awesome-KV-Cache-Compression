@@ -212,6 +212,8 @@ This repository is constantly updating 🤗 ...
 
 86. [**AhaKV: Adaptive Holistic Attention-Driven KV Cache Eviction for Efficient Inference of Large Language Models.**](https://www.arxiv.org/abs/2506.03762) *Yifeng Gu, Zicong Jiang, Jianxiu Jin, Kailing Guo, Ziyang Zhang, Xiangmin Xu.* Arxiv 2025.
 
+87. [**Inference-Time Hyper-Scaling with KV Cache Compression.**](https://arxiv.org/abs/2506.05345) *Adrian Łańcucki, Konrad Staniszewski, Piotr Nawrot, Edoardo M. Ponti.* Arxiv 2025.
+
 
 ### 2️⃣ Merging
 
@@ -306,6 +308,8 @@ This repository is constantly updating 🤗 ...
 14. [**TaDA: Training-free recipe for Decoding with Adaptive KV Cache Compression and Mean-centering.**](https://www.arxiv.org/abs/2506.04642) *Vinay Joshi, Pratik Prabhanjan Brahma, Zicheng Liu, Emad Barsoum
 .* ACL 2025 Industry Track.
 
+15. [**TailorKV: A Hybrid Framework for Long-Context Inference via Tailored KV Cache Optimization.**](https://arxiv.org/abs/2505.19586) *Dingyu Yao, Bowen Shen, Zheng Lin, Wei Liu, Jian Luan, Bin Wang, Weiping Wang.* ACL 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ydyhello/TailorKV)](https://github.com/ydyhello/TailorKV)
+
 
 
 ### 6️⃣ Prompt Compression
@@ -333,6 +337,8 @@ This repository is constantly updating 🤗 ...
 1. [**dKV-Cache: The Cache for Diffusion Language Models.**](https://arxiv.org/abs/2505.15781) *Xinyin Ma, Runpeng Yu, Gongfan Fang, Xinchao Wang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/horseee/dKV-Cache)](https://github.com/horseee/dKV-Cache)
 
 2. [**dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching.**](https://www.arxiv.org/abs/2506.06295) *Zhiyuan Liu, Yicun Yang, Yaojie Zhang, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/maomaocun/dLLM-cache)](https://github.com/maomaocun/dLLM-cache)
+
+3. [**Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding.**](https://arxiv.org/abs/2505.22618) *Chengyue Wu, Hao Zhang, Shuchen Xue, Zhijian Liu, Shizhe Diao, Ligeng Zhu, Ping Luo, Song Han, Enze Xie.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/Fast-dLLM)](https://github.com/NVlabs/Fast-dLLM)
 
 
 ## 📊 Evaluation
