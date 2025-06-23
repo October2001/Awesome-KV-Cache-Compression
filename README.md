@@ -214,6 +214,7 @@ This repository is constantly updating 🤗 ...
 
 87. [**Inference-Time Hyper-Scaling with KV Cache Compression.**](https://arxiv.org/abs/2506.05345) *Adrian Łańcucki, Konrad Staniszewski, Piotr Nawrot, Edoardo M. Ponti.* Arxiv 2025.
 
+88. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745v1) *Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang.* EMNLP 2024.
 
 ### 2️⃣ Merging
 
