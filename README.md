@@ -216,6 +216,9 @@ This repository is constantly updating 🤗 ...
 
 88. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745v1) *Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang.* Arxiv 2025.
 
+89. [**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?.**](https://arxiv.org/abs/2506.17121) *Adithya Bhaskar, Alexander Wettig, Tianyu Gao, Yihe Dong, Danqi Chen.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-pli/PruLong)](https://github.com/princeton-pli/PruLong)
+
+
 ### 2️⃣ Merging
 
 1. [**D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models.**](https://arxiv.org/abs/2406.13035) *Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, Jing Xiong, Mi Zhang.* ICLR 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/d2o)](https://github.com/AIoT-MLSys-Lab/d2o)
@@ -278,6 +281,8 @@ This repository is constantly updating 🤗 ...
 
 8.  [**ThinK: Thinner Key Cache by Query-Driven Pruning.**](https://arxiv.org/abs/2407.21018) *Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/SalesforceAIResearch/ThinK)](https://github.com/SalesforceAIResearch/ThinK)
 
+9.  [**Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache.**](https://arxiv.org/abs/2506.11886) *Xiaoran Liu, Siyang He, Qiqi Wang, Ruixiao Li, Yuerong Song, Zhigeng Liu, Linlin Li, Qun Liu, Zengfeng Huang, Qipeng Guo, Ziwei He, Xipeng Qiu.* Arxiv 2025.
+
 
 ### 5️⃣ Quantization
 
@@ -301,7 +306,7 @@ This repository is constantly updating 🤗 ...
 
 10. [**WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More.**](https://arxiv.org/abs/2402.12065) *Yuxuan Yue, Zhihang Yuan, Haojie Duanmu, Sifan Zhou, Jianlong Wu, Liqiang Nie.* Arxiv 2024.
 
-11. [**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference.**](https://arxiv.org/abs/2502.04420) *Xing Li, Zeyu Xing, Yiming Li, Linping Qu, Hui-Ling Zhen, Wulong Liu, Yiwu Yao, Sinno Jialin Pan, Mingxuan Yuan.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/cmd2001/KVTuner)](https://github.com/cmd2001/KVTuner)
+11. [**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference.**](https://arxiv.org/abs/2502.04420) *Xing Li, Zeyu Xing, Yiming Li, Linping Qu, Hui-Ling Zhen, Wulong Liu, Yiwu Yao, Sinno Jialin Pan, Mingxuan Yuan.* ICML 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/cmd2001/KVTuner)](https://github.com/cmd2001/KVTuner)
 
 12. [**Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models.**](https://arxiv.org/abs/2503.16257) *Keda Tao, Haoxuan You, Yang Sui, Can Qin, Huan Wang.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/KD-TAO/VidKV)](https://github.com/KD-TAO/VidKV)
 
