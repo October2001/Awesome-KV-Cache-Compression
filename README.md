@@ -216,7 +216,9 @@ This repository is constantly updating 🤗 ...
 
 88. [**InfiniPot-V: Memory-Constrained KV Cache Compression for Streaming Video Understanding.**](https://arxiv.org/abs/2506.15745v1) *Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang.* Arxiv 2025.
 
-89. [**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs?.**](https://arxiv.org/abs/2506.17121) *Adithya Bhaskar, Alexander Wettig, Tianyu Gao, Yihe Dong, Danqi Chen.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-pli/PruLong)](https://github.com/princeton-pli/PruLong)
+89. [**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs.**](https://arxiv.org/abs/2506.17121) *Adithya Bhaskar, Alexander Wettig, Tianyu Gao, Yihe Dong, Danqi Chen.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-pli/PruLong)](https://github.com/princeton-pli/PruLong)
+
+90. [**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores.**](https://arxiv.org/abs/2507.08143) *Vivek Chari, Benjamin Van Durme.* Arxiv 2025. 
 
 
 ### 2️⃣ Merging
