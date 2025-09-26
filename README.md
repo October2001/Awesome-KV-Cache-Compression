@@ -218,7 +218,9 @@ This repository is constantly updating 🤗 ...
 
 89. [**Cache Me If You Can: How Many KVs Do You Need for Effective Long-Context LMs.**](https://arxiv.org/abs/2506.17121) *Adithya Bhaskar, Alexander Wettig, Tianyu Gao, Yihe Dong, Danqi Chen.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/princeton-pli/PruLong)](https://github.com/princeton-pli/PruLong)
 
-90. [**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores.**](https://arxiv.org/abs/2507.08143) *Vivek Chari, Benjamin Van Durme.* Arxiv 2025. 
+90. [**Compactor: Calibrated Query-Agnostic KV Cache Compression with Approximate Leverage Scores.**](https://arxiv.org/abs/2507.08143) *Vivek Chari, Benjamin Van Durme.* Arxiv 2025.
+
+91. [**LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models.**](https://arxiv.org/abs/2507.14204) *Dachuan Shi, Yonggan Fu, Xiangchi Yuan, Zhongzhi Yu, Haoran You, Sixu Li, Xin Dong, Jan Kautz, Pavlo Molchanov, Yingyan (Celine)Lin.* ICML 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/GATECH-EIC/LaCache)](https://github.com/GATECH-EIC/LaCache)
 
 
 ### 2️⃣ Merging
