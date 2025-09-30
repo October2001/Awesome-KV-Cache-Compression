@@ -222,6 +222,10 @@ This repository is constantly updating 🤗 ...
 
 91. [**LaCache: Ladder-Shaped KV Caching for Efficient Long-Context Modeling of Large Language Models.**](https://arxiv.org/abs/2507.14204) *Dachuan Shi, Yonggan Fu, Xiangchi Yuan, Zhongzhi Yu, Haoran You, Sixu Li, Xin Dong, Jan Kautz, Pavlo Molchanov, Yingyan (Celine)Lin.* ICML 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/GATECH-EIC/LaCache)](https://github.com/GATECH-EIC/LaCache)
 
+92. [**EvolKV: Evolutionary KV Cache Compression for LLM Inference.**](https://arxiv.org/abs/2509.08315) *Bohan Yu, Yekun Chai.* Arxiv 2025.
+
+93. [**LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation.**](https://arxiv.org/pdf/2509.09754) *Yiqun Shen, Song Yuan, Zhengze Zhang, Xiaoliang Wang, Daxin Jiang, Nguyen Cam-Tu.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MGDDestiny/Lava)](https://github.com/MGDDestiny/Lava)
+
 
 ### 2️⃣ Merging
 
@@ -286,6 +290,8 @@ This repository is constantly updating 🤗 ...
 8.  [**ThinK: Thinner Key Cache by Query-Driven Pruning.**](https://arxiv.org/abs/2407.21018) *Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/SalesforceAIResearch/ThinK)](https://github.com/SalesforceAIResearch/ThinK)
 
 9.  [**Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache.**](https://arxiv.org/abs/2506.11886) *Xiaoran Liu, Siyang He, Qiqi Wang, Ruixiao Li, Yuerong Song, Zhigeng Liu, Linlin Li, Qun Liu, Zengfeng Huang, Qipeng Guo, Ziwei He, Xipeng Qiu.* Arxiv 2025.
+
+10.  [**OjaKV: Context-Aware Online Low-Rank KV Cache Compression with Oja's Rule.**](https://www.arxiv.org/abs/2509.21623) *Yuxuan Zhu, David H. Yang, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Pin-Yu Chen.* Arxiv 2025.
 
 
 ### 5️⃣ Quantization
