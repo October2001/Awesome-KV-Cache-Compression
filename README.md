@@ -226,6 +226,10 @@ This repository is constantly updating 🤗 ...
 
 93. [**LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation.**](https://arxiv.org/pdf/2509.09754) *Yiqun Shen, Song Yuan, Zhengze Zhang, Xiaoliang Wang, Daxin Jiang, Nguyen Cam-Tu.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/MGDDestiny/Lava)](https://github.com/MGDDestiny/Lava)
 
+94. [**KeyDiff: Key Similarity-Based KV Cache Eviction for Long-Context LLM Inference in Resource-Constrained Environments.**](https://arxiv.org/abs/2504.15364) *Junyoung Park, Dalton Jones, Matthew J Morse, Raghavv Goel, Mingu Lee, Chris Lott.* NeurIPS 2025.
+
+95. [**CAOTE: KV Cache Selection for LLMs via Attention Output Error-Based Token Eviction.**](https://arxiv.org/abs/2504.14051) *Raghavv Goel, Junyoung Park, Mukul Gagrani, Dalton Jones, Matthew Morse, Harper Langston, Mingu Lee, Chris Lott.* Arxiv 2025.
+
 
 ### 2️⃣ Merging
 
