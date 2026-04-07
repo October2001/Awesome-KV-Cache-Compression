@@ -374,3 +374,6 @@ This repository is constantly updating 🤗 ...
 
 4. [**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving.**](https://arxiv.org/abs/2503.24000) *Wei Gao, Xinyu Zhou, Peng Sun, Tianwei Zhang, Yonggang Wen.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LLMkvsys/rethink-kv-compression)](https://github.com/LLMkvsys/rethink-kv-compression)
 
+
+5. [**NexusQuant.**](https://github.com/nexusquant/nexusquant) [![GitHub Repo stars](https://img.shields.io/github/stars/nexusquant/nexusquant)](https://github.com/nexusquant/nexusquant)
+* Training-free KV cache compression via NSN normalization, Hadamard rotation, E8 lattice vector quantization, and Temporal Predictive Coding (TCC). Achieves 7x compression with -2.26% PPL on Mistral-7B. Drop-in: `with nexusquant(model): model.generate(...)`.
