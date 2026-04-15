@@ -379,5 +379,7 @@ This repository is constantly updating 🤗 ...
 
 4. [**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving.**](https://arxiv.org/abs/2503.24000) *Wei Gao, Xinyu Zhou, Peng Sun, Tianwei Zhang, Yonggang Wen.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LLMkvsys/rethink-kv-compression)](https://github.com/LLMkvsys/rethink-kv-compression)
 
-5. [**Comparative Characterization of KV Cache Management Strategies for LLM Inference.**](https://arxiv.org/abs/2604.05012) *Oteo Mamo, Olga Kogiou, Hyunjin Yi, Weikuan Yu.* Arxiv 2026. 
+5. [**NexusQuant.**](https://github.com/nexusquant/nexusquant) [![GitHub Repo stars](https://img.shields.io/github/stars/nexusquant/nexusquant)](https://github.com/nexusquant/nexusquant)
+
+6. [**Comparative Characterization of KV Cache Management Strategies for LLM Inference.**](https://arxiv.org/abs/2604.05012) *Oteo Mamo, Olga Kogiou, Hyunjin Yi, Weikuan Yu.* Arxiv 2026. 
 
