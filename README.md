@@ -285,7 +285,7 @@ This repository is constantly updating 🤗 ...
 
 4. [**Effectively Compress KV Heads for LLM.**](https://arxiv.org/abs/2406.07056) *Hao Yu, Zelan Yang, Shen Li, Yong Li, Jianxin Wu.* Arxiv 2024.
 
-5. [**Palu: Compressing KV-Cache with Low-Rank Projection.**](https://arxiv.org/abs/2407.21118) *Chi-Chih Chang, Wei-Cheng Lin, Chien-Yu Lin, Chong-Yan Chen, Yu-Fang Hu, Pei-Shuo Wang, Ning-Chi Huang, Luis Ceze, Kai-Chiang Wu.* Arxiv 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/shadowpa0327/Palu)](https://github.com/shadowpa0327/Palu)
+5. [**Palu: Compressing KV-Cache with Low-Rank Projection.**](https://arxiv.org/abs/2407.21118) *Chi-Chih Chang, Wei-Cheng Lin, Chien-Yu Lin, Chong-Yan Chen, Yu-Fang Hu, Pei-Shuo Wang, Ning-Chi Huang, Luis Ceze, Kai-Chiang Wu.* ICLR 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/shadowpa0327/Palu)](https://github.com/shadowpa0327/Palu)
 
 6.  [**LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy.**](https://arxiv.org/abs/2410.03111) *Rongzhi Zhang, Kuang Wang, Liyuan Liu, Shuohang Wang, Hao Cheng, Chao Zhang, Yelong Shen.* Arxiv 2024.
 
@@ -333,6 +333,11 @@ This repository is constantly updating 🤗 ...
 
 16. [**CommVQ: Commutative Vector Quantization for KV Cache Compression.**](https://arxiv.org/abs/2506.18879) *Junyan Li, Yang Zhang, Muhammad Yusuf Hassan, Talha Chafekar, Tianle Cai, Zhile Ren, Pengsheng Guo, Foroozan Karimzadeh, Colorado Reed, Chong Wang, Chuang Gan.* ICML 2025.
 
+17. [**TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.**](https://arxiv.org/abs/2504.19874) *Amir Zandieh, Majid Daliri, Majid Hadian, Vahab Mirrokni.* ICLR 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/0xSero/turboquant)](https://github.com/0xSero/turboquant)
+
+18. [**PolarQuant: Quantizing KV Caches with Polar Transformation.**](https://arxiv.org/abs/2502.02617) *Insu Han, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh.* NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ericshwu/PolarQuant)](https://github.com/ericshwu/PolarQuant)
+
+
 
 
 ### 6️⃣ Prompt Compression
@@ -374,6 +379,7 @@ This repository is constantly updating 🤗 ...
 
 4. [**Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving.**](https://arxiv.org/abs/2503.24000) *Wei Gao, Xinyu Zhou, Peng Sun, Tianwei Zhang, Yonggang Wen.* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/LLMkvsys/rethink-kv-compression)](https://github.com/LLMkvsys/rethink-kv-compression)
 
-
 5. [**NexusQuant.**](https://github.com/nexusquant/nexusquant) [![GitHub Repo stars](https://img.shields.io/github/stars/nexusquant/nexusquant)](https://github.com/nexusquant/nexusquant)
-* Training-free KV cache compression via NSN normalization, Hadamard rotation, E8 lattice vector quantization, and Temporal Predictive Coding (TCC). Achieves 7x compression with -2.26% PPL on Mistral-7B. Drop-in: `with nexusquant(model): model.generate(...)`.
+
+6. [**Comparative Characterization of KV Cache Management Strategies for LLM Inference.**](https://arxiv.org/abs/2604.05012) *Oteo Mamo, Olga Kogiou, Hyunjin Yi, Weikuan Yu.* Arxiv 2026. 
+
