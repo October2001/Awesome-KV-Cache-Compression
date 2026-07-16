@@ -27,6 +27,9 @@ This repository is constantly updating 🤗 ...
 2. [**KVCache-Factory.**](https://github.com/Zefan-Cai/KVCache-Factory) [![GitHub Repo stars](https://img.shields.io/github/stars/Zefan-Cai/KVCache-Factory)](https://github.com/Zefan-Cai/KVCache-Factory)
 * Unified KV Cache Compression Methods for Auto-Regressive Models.
 
+3. [**KV Cache Store.**](https://kvcachestore.com/) [![Website](https://img.shields.io/badge/Website-kvcachestore.com-blue)](https://kvcachestore.com/)
+* Hosted KV-cache artifact registry plus an open-source Rust CLI. Precompute, verify, quantize, and share attention states across RAG and long-context prompts to cut prefill cost and latency.
+
 ## 📷 Survey
 
 1. [**Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption.**](https://arxiv.org/abs/2407.18003) *Shi Luohe, Zhang Hongyi, Yao Yao, Li Zuchao, Zhao Hai.* COLM 2024. [![GitHub Repo stars](https://img.shields.io/github/stars/zcli-charlie/Awesome-KV-Cache)](https://github.com/zcli-charlie/Awesome-KV-Cache)
