@@ -233,6 +233,8 @@ This repository is constantly updating 🤗 ...
 
 95. [**CAOTE: KV Cache Selection for LLMs via Attention Output Error-Based Token Eviction.**](https://arxiv.org/abs/2504.14051) *Raghavv Goel, Junyoung Park, Mukul Gagrani, Dalton Jones, Matthew Morse, Harper Langston, Mingu Lee, Chris Lott.* Arxiv 2025.
 
+96. [**RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.**](https://arxiv.org/abs/2608.01247) *Changwoo Baek, Seungjun Shin, Kyeongbo Kong.* Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/cvsp-lab/RestoreKV)](https://github.com/cvsp-lab/RestoreKV)
+
 
 ### 2️⃣ Merging
 
