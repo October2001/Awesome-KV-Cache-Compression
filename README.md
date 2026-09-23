@@ -235,6 +235,7 @@ This repository is constantly updating 🤗 ...
 
 96. [**RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.**](https://arxiv.org/abs/2608.01247) *Changwoo Baek, Seungjun Shin, Kyeongbo Kong.* Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/cvsp-lab/RestoreKV)](https://github.com/cvsp-lab/RestoreKV)
 
+97. [**Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches.**](https://arxiv.org/abs/2609.17652) *Vivek Kalyanarangan.* Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/vivekkalyanarangan30/fathom?style=social)](https://github.com/vivekkalyanarangan30/fathom)
 
 ### 2️⃣ Merging
 
