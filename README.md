@@ -235,6 +235,8 @@ This repository is constantly updating 🤗 ...
 
 96. [**RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction.**](https://arxiv.org/abs/2608.01247) *Changwoo Baek, Seungjun Shin, Kyeongbo Kong.* Arxiv 2026. [![GitHub Repo stars](https://img.shields.io/github/stars/cvsp-lab/RestoreKV)](https://github.com/cvsp-lab/RestoreKV)
 
+97. [**MOSAIC: Multi-Objective Search for Allocating Inference Cache Across LLM Decoder Layers.**](https://arxiv.org/abs/2610.25431) *Sravanth Kodavanti, Manjunath Arveti.* Arxiv 2026.
+
 
 ### 2️⃣ Merging
 
