@@ -342,8 +342,7 @@ This repository is constantly updating 🤗 ...
 
 18. [**PolarQuant: Quantizing KV Caches with Polar Transformation.**](https://arxiv.org/abs/2502.02617) *Insu Han, Praneeth Kacham, Amin Karbasi, Vahab Mirrokni, Amir Zandieh.* NeurIPS 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/ericshwu/PolarQuant)](https://github.com/ericshwu/PolarQuant)
 
-
-
+19. [**The FastPath Agentic Recipe: 50% More Agents and 60% More Throughput at Equal P90 Interactivity on Stock SGLang.**](https://doi.org/10.5281/zenodo.24457433) *Asghar Ali, Muthu Durai, Mohamed Hussain, Asif Ali.* Zenodo 2026.
 
 ### 6️⃣ Prompt Compression
 
